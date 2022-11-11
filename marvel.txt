@@ -1,0 +1,130 @@
+Název: marvel quiz
+Otázka 1zN: první natočený MCU film
+Špatně: Incredible hulk
+Správně: Iron man
+Špatně: Captain america 1
+Špatně: Thor
+
+Otázka XzN: členové avengers v 1. díle
+Správně: kapitán Amerika
+Správně: iron man
+Špatně: Gamora
+Správně: black widow
+Špatně: ant man
+Správně: hulk
+Správně: hawkeye
+Špatně: Loki
+Špatně: Nick Fury
+Správně: Thor
+Špatně: Marie Hillová
+Špatně: captain Marvel
+
+Otázka pis: herec Thora
+Správně: Chris Hemsworth
+Správně: chris hemsworth
+
+Otázka 1zN: počet členů stážci galaxie v 1
+Špatně: 1
+Špatně: 2
+Špatně: 3
+Špatně: 4
+Správně: 5
+Špatně: 6
+Špatně: 7
+Špatně: 8
+Špatně: 9
+Špatně: 10
+
+Otázka pis: kdo režiséroval Avengers endgame
+Správně: Anthony Russo, Joe Russo
+Správně: Anthony Russo
+Správně: Anthony Russo a Joe Russo
+Správně: Joe Russo
+Správně: bratři Russo
+Správně: bratři Russoové
+
+Otázka 1zN: křestní jméno cpt. Marvel
+Špatně: Brie
+Správně: Carol
+Špatně: Tiffany
+Špatně: Anna
+
+Otázka pis: jméno postavy kterou hrál Chris Pratt
+Správně: star-lord
+Správně: strarlord
+Správně: star lord
+Správně: Peter Quill
+Správně: Peter Jason Quill
+
+Otázka pis: hláška groota
+Správně: já jsem groot
+Správně: my jsme groot
+Správně: I am groot
+Správně: I am Groot
+Správně: we are groot
+Správně: já jsem Groot
+
+Otázka 1zN: jméno magneta
+Špatně: Magnus Eisenhardt
+Správně: Max Eisenhardt
+Špatně: Magnus Kristallnacht
+
+Otázka 1zN: Thor
+Špatně: god of lightning
+Špatně: god of muscles
+Správně: god of thunder
+
+Otázka 1zN: herec Wolverina
+Správně: Hugh Jackman
+Špatně: Hugh Jazzman
+Špatně: Hugh Luckman
+Špatně: Hugh Yesman
+
+Otázka 1zN: Co hlavně používá deadpool
+Špatně: berrety
+Špatně: glocky
+Špatně: CZ75
+Špatně: revolvery
+Správně: deagly
+
+Otázka 1zN: jakou barvu má Thanos
+Špatně: růžovou
+Správně: fialovou
+Špatně: zelenou
+Špatně: modrou
+
+Otázka pis: Kolik je kamenů nekonečna
+Správně: 6
+Správně: šest
+
+Otázka 1zN: Hraje Robert D. Senior Iron-mana
+Špatně: ano
+Správně: ne
+
+Otázka XzN: kdo vlastní práva na natáčení marvelu
+Špatně: studio fox
+Špatně: warner bros.
+Správně: disney
+Správně: sony
+Špatně: paramount
+
+Otázka pis: jaké postížení má daredevil
+Správně: je slepý
+Správně: slepý
+Správně: slepota
+
+Otázka pis: hlavní tvůrce marvelu
+Správně: Stan Lee
+Správně: stan lee
+
+Otázka 1zN: kdo vymyslel fantastickou čtyřku
+Špatně: Jack Kirby
+Špatně: Steve Ditko
+Správně: Stan Lee
+
+Otázka 1zN: Herec 1. spider-mana
+Správně: Tobey Maguire
+Špatně: Tom Holland
+Špatně: Jake Johnson
+Špatně: Andrew Garfield
+

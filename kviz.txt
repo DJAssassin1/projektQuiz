@@ -1,0 +1,129 @@
+Název: kvíz prezentace
+Otázka 1zN: 1
+Správně: 1
+Špatně: 2
+Špatně: 3
+
+Otázka XzN: 12
+Špatně: 2
+Špatně: 21
+Správně: 12
+Správně: 12
+Špatně: 53
+
+Otázka pis: 1
+Správně: 1
+
+Otázka 1zN: 1
+Správně: 1
+Špatně: 2
+Špatně: 3
+Špatně: 4
+
+Otázka 1zN: 1
+Špatně: 2
+Špatně: 3
+Správně: 1
+
+Otázka XzN: 23
+Správně: 23
+Správně: 23
+Špatně: 34
+Špatně: 485
+Špatně: 8954
+
+Otázka pis: 1+1
+Správně: 2
+Správně: dva
+
+Otázka 1zN: 25
+Správně: 25
+Špatně: 75
+Špatně: 687
+Špatně: 654
+
+Otázka pis: 24
+Správně: 24
+
+Otázka 1zN: 1
+Špatně: 2
+Špatně: 43
+Správně: 1
+
+Otázka XzN: 5+5
+Správně: 10
+Správně: 20/2
+Špatně: 55
+
+Otázka XzN: 1
+Špatně: 2
+Špatně: 3
+Špatně: 4
+Správně: 1
+Správně: 1
+
+Otázka 1zN: sa
+Špatně: a
+Špatně: a
+Špatně: a
+Správně: sa
+Špatně: a
+Špatně: s
+Špatně: d
+Špatně: f
+Špatně: g
+Špatně: g
+Špatně: j
+Špatně: jk
+Špatně: k
+Špatně: lkj
+
+Otázka XzN: as
+Správně: as
+Špatně: fdf
+Špatně: fgf
+Správně: as
+Špatně: hgfh
+Špatně: gfh
+Špatně: gfh
+Špatně: gfh
+Špatně: gfh
+Špatně: fghg
+Špatně: fh
+Špatně: gjhg
+Špatně: hg
+Špatně: jhgj
+
+Otázka XzN: p
+Špatně: qw
+Špatně: ret
+Špatně: tz
+Špatně: zuoi
+Správně: p
+Špatně: sfs
+Špatně: fds
+Správně: p
+
+Otázka 1zN: 8
+Správně: 8
+Špatně: 4
+Špatně: 6
+Špatně: 654
+Špatně: 87
+Špatně: 654
+
+Otázka 1zN: 35
+Špatně: 45
+Správně: 35
+Špatně: 654
+
+Otázka pis: 1
+Správně: 1
+
+Otázka pis: 36
+Správně: 36
+
+Otázka 1zN: 95
+Špatně: 54
+Správně: 95
+

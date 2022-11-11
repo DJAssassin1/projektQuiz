@@ -1,0 +1,28 @@
+Název: Test VV 01
+Otázka 1zN: 1
+# TODO: Udělat si seznam barev od
+# nejlepší po nejhorší.
+Správně: 1
+Špatně: 2
+Špatně: 3
+
+Otázka XzN: 2
+# TODO: Udělat si seznam barev od
+# nejlepší po nejhorší.
+spatne: 2. mocnina 1
+spravne: 2
+# nejlepší po nejhorší.
+spravne: odmocnina 4
+Špatně: nevim
+
+Otázka 1zN: je obloha modra?
+# TODO: Udělat si seznam barev od
+# nejlepší po nejhorší.
+spatne: ne
+spravne: ano
+
+Otázka pis: mas se?
+# TODO: Udělat si seznam barev od
+# nejlepší po nejhorší.
+spravne: nevim
+spravne: ano
